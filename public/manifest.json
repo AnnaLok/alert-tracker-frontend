@@ -1,0 +1,6 @@
+{
+  "short_name": "Alert Tracker",
+  "name": "Tool to calculate and display alert metrics",
+  "start_url": ".",
+  "display": "standalone"
+}
