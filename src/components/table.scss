@@ -1,0 +1,23 @@
+.MuiTableRow-head > * {
+    font-weight: bold !important;
+    background-color: #F2F2F2;
+}
+
+.paper-container {
+    margin: 20px 25px 30px 25px;
+    padding: 0px 20px 20px 20px;
+}
+
+p.tableTitle {
+    font-weight: lighter;
+    font-family: Verdana, sans-serif !important;
+    text-transform: uppercase;
+    padding: 10px 0 15px 5px ;
+    text-shadow: 0.25px 0.25px #756F6F;
+    color: #96A4F2;
+  }
+
+.inline {
+    display: flex;
+    justify-content: space-between;
+}

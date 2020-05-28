@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FFF;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.MuiTypography-overline {
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  text-shadow: 0.25px 0.25px #756F6F;
+}
+
+.metricTitle {
+  font-weight: bold;
+  font-family: Verdana, sans-serif !important;
+  font-size: 17px !important;
+  text-transform: uppercase;
+  padding: 40px 0 10px 25px ;
+  text-shadow: 0.25px 0.25px #756F6F;
+}
+
